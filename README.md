@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bright (@Bryteog)
-- 📫 Email:bryte490@gmail.com
+-     Hi, I’m Bright
+-     Email:bryte490@gmail.com
 
 <!---
 Bryteog/Bryteog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
