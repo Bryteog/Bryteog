@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shades-of-purple">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
 </div>
 
 <!---
