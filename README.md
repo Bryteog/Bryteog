@@ -2,7 +2,7 @@
 -     Email:bryte490@gmail.com
 
 <div align="center">
-  <h3>✍️ Random Dev Quote</h3>
+  <h3>Random Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
 </div>
 
