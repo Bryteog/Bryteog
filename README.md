@@ -1,6 +1,11 @@
 -     Hi, I’m Bright
 -     Email:bryte490@gmail.com
 
+<h2 dir="auto" align="center">
+  <a href="mailto:afonsopaula2000@gmail.com">
+    <img src="https://img.shields.io/badge/brytego%40gmail.com-blue?style=plastic&logo=gmail&logoColor=white&color=blue&link=mailto:brytego@gmail.com"/>
+  </a>
+</h2>
 
 <div align="center">
   <!--<h3> 📊 GitHub Stats: </h3>-->
