@@ -5,7 +5,7 @@
 <div align="center">
   <!--<h3> 📊 GitHub Stats: </h3>-->
   <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryteog&theme=nord&hide_border=false">
-  <img width="36%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryteog&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="border-radius: 10px;">
+  <img width="36%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryteog&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
 
