@@ -1,5 +1,5 @@
 -     Hi, I’m Bright
--     Email:bryte490@gmail.com
+<!--- -     Email:bryte490@gmail.com--->
 
 <h2 dir="auto" align="center">
   <a href="mailto:bryte490@gmail.com">
