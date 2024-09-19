@@ -2,8 +2,8 @@
 -     Email:bryte490@gmail.com
 
 <h2 dir="auto" align="center">
-  <a href="mailto:brytego@gmail.com">
-    <img src="https://img.shields.io/badge/brytego%40gmail.com-blue?style=plastic&logo=gmail&logoColor=white&color=blue&link=mailto:brytego@gmail.com"/>
+  <a href="mailto:bryte490@gmail.com">
+    <img src="https://img.shields.io/badge/bryte490%40gmail.com-blue?style=plastic&logo=gmail&logoColor=white&color=red&link=mailto:bryte490@gmail.com"/>
   </a>
 </h2>
 
